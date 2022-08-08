@@ -442,7 +442,7 @@
     cursor: pointer
   }
   
-  .post .post-content h2:before,.post .post-content h3:before,.post .post-content h4:before,.post .post-content h5:before,.post .post-content h6:before {
+  /* .post .post-content h2:before,.post .post-content h3:before,.post .post-content h4:before,.post .post-content h5:before,.post .post-content h6:before {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #49b1f5;
@@ -450,7 +450,7 @@
     font-size: .75em;
     margin-right: .3rem;
     transition: color .6s
-  }
+  } */
   
   .post .post-content h2:hover:before,.post .post-content h3:hover:before,.post .post-content h4:hover:before,.post .post-content h5:hover:before,.post .post-content h6:hover:before {
     color: #eb5055
